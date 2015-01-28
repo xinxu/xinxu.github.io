@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://xinxu.github.io/sitemap.xml
