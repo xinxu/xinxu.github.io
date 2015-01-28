@@ -4,7 +4,7 @@
   <title><![CDATA[Apple谈]]></title>
   <link href="http://xinxu.github.io/atom.xml" rel="self"/>
   <link href="http://xinxu.github.io/"/>
-  <updated>2015-01-28T23:23:50+08:00</updated>
+  <updated>2015-01-28T23:34:36+08:00</updated>
   <id>http://xinxu.github.io/</id>
   <author>
     <name><![CDATA[Tassar]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第一篇，希望能坚持做好这个blog]]></title>
+    <link href="http://xinxu.github.io/blog/2015/01/28/init-post-hello-world/"/>
+    <updated>2015-01-28T23:30:59+08:00</updated>
+    <id>http://xinxu.github.io/blog/2015/01/28/init-post-hello-world</id>
+    <content type="html"><![CDATA[<p>每天让自己进步一点，多思考一点。</p>
+]]></content>
+  </entry>
   
 </feed>
